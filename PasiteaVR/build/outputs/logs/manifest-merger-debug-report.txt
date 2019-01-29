@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:70-102
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:103-149
+	android:versionCode
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:2:150-190
+supports-screens
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:4:3-18:17
+	android:label
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:4:48-80
+	android:roundIcon
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:4:141-183
+	android:icon
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:4:16-47
+	android:banner
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:4:103-140
+	android:theme
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:4:184-222
+	android:isGame
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:4:81-102
+activity#it.aui20182019.pasitea.UnityPlayerActivity
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:5:5-13:16
+	android:screenOrientation
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:5:48-91
+	android:label
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:5:92-123
+	android:hardwareAccelerated
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:5:306-341
+	android:configChanges
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:5:124-305
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:5:342-399
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:12:7-82
+	android:value
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:12:59-79
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:12:18-58
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:14:5-88
+	android:value
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:14:65-85
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:14:16-64
+meta-data#unity.build-id
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:15:5-101
+	android:value
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:15:46-98
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:15:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:16:5-69
+	android:value
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:16:49-66
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:16:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:17:5-75
+	android:value
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:17:51-72
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:17:16-50
+uses-feature#0x00020000
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:19:3-52
+	android:glEsVersion
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:19:17-49
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:20:3-78
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:20:20-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:21:3-65
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:21:20-62
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:22:3-97
+	android:required
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:22:70-94
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:22:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:23:3-88
+	android:required
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:23:61-85
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:23:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:24:3-99
+	android:required
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:24:72-96
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:24:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:25:3-108
+	android:required
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:25:81-105
+	android:name
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml:25:17-80
+uses-sdk
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+		ADDED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml
+		INJECTED from /Users/marcellobertolini/Desktop/PasiteaVR 2/PasiteaVR/src/main/AndroidManifest.xml

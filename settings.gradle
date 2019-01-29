@@ -1,0 +1,1 @@
+include ':app', ':PasiteaVR', ':gvr-keyboard', ':gvr-keyboardsupport-release', ':gvr-permissionsupport-release', ':gvr', ':unitygvr', ':empatica', ':empalink-2.2'

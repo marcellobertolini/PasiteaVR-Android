@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :gvr-keyboardsupport-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gvr-keyboardsupport-release.aar/9a63dbd3063920e81f44ab1e3daeadd1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gvr-keyboardsupport-release.aar/9a63dbd3063920e81f44ab1e3daeadd1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
